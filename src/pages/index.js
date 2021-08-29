@@ -27,7 +27,7 @@ class IndexPost extends React.Component {
                       }}
                     />
                   ) : (
-                    <div className="no-image">No Image</div>
+                    <div className="no-image">Sin Imagen</div>
                   )}
 
                   <div className="details_inner">
@@ -51,7 +51,7 @@ class IndexPost extends React.Component {
                           data-item-url={`/`}
                         >
                           <i className="fas fa-shopping-bag" />
-                          Add to Cart
+                          Agregar al Carrito
                         </a>
                       </div>
                     </div>
@@ -71,7 +71,7 @@ const IndexPage = data => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div className="container">
       <div className="text-center mt-5">
-        <h2 className="with-underline">All Items</h2>
+        <h2 className="with-underline">Todos los Items</h2>
       </div>
       <IndexPost data={data}></IndexPost>
     </div>

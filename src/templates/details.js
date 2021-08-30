@@ -65,7 +65,7 @@ const ProductDetails = data => (
               data-item-url={`/`}
             >
               <i className="fas fa-tags" />
-              Comprar Ahora
+              Comprar
             </a>
           </div>
         </div>

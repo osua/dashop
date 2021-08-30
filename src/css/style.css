@@ -32,11 +32,11 @@
 }
 .product-main .details_List .details_inner h2 {
   font-size: 24px;
-  color: #333;
+  color: #000;
   margin-bottom: 10px;
 }
 .product-main .details_List .details_inner h2 a {
-  color: #333;
+  color: #000;
 }
 .snipcart-add-item {
   border: 1px solid #4db58e;
@@ -109,7 +109,7 @@ header nav ul.navbar-nav li a {
 
 /* header css */
 footer.site-footer {
-  background: #333;
+  background: #000;
   padding: 0;
   text-align: center;
 }
@@ -136,7 +136,7 @@ footer.site-footer * {
   font-size: 17px;
 }
 .snip-layout .snip-header {
-  background: #333 !important;
+  background: #000 !important;
 }
 .snip-layout .snip-header__total {
   background: #fff !important;
@@ -148,13 +148,13 @@ footer.site-footer * {
   letter-spacing: 1px !important;
 }
 .snip-layout .snip-footer {
-  background: #333 !important;
+  background: #000 !important;
 }
 .snip-layout .snip-footer * {
   color: #fff !important;
 }
 .snip-layout .snip-actions a.snip-btn {
-  background: #333 !important;
+  background: #000 !important;
   color: #fff !important;
 }
 .snip-layout .snip-actions a.snip-btn:hover {
@@ -166,7 +166,7 @@ footer.site-footer * {
 span.price {
   font-weight: bold;
   font-size: 30px;
-  color: #333;
+  color: #000;
 }
 .Product-Screenshot ul.react-tabs__tab-list {
   list-style: none;
@@ -457,7 +457,7 @@ ul.blog-list li .post-item .post-details .post-title {
   margin: 0 0 15px 0;
 }
 ul.blog-list li .post-item .post-details .post-title a {
-  color: #333;
+  color: #000;
   font-size: 28px;
 }
 ul.latest-blog {
@@ -546,9 +546,9 @@ ul.latest-blog li .inner a {
 .Contact-us form > div button {
   width: 120px;
   height: 50px;
-  background: #333;
+  background: #000;
   color: #fff;
-  border: 1px solid #333;
+  border: 1px solid #000;
 }
 .blogs-page {
   background: #fafafa;
@@ -596,19 +596,19 @@ div#disqus_thread {
   padding: 20px 20px;
   box-sizing: border-box;
   text-shadow: none;
-  color: #333;
+  color: #000;
   border-top: 4px solid #4db58e;
 }
 .countdown-section .countdown-inner .date strong i {
   text-shadow: none;
-  color: #333;
+  color: #000;
   margin-right: 10px;
 }
 ul.blog-list li .post-item .post-thumbnail .post-date {
   position: absolute;
   bottom: 10px;
   right: 10px;
-  text-shadow: 3px 0 5px #333;
+  text-shadow: 3px 0 5px #000;
   color: #fff;
   font-size: 16px;
 }

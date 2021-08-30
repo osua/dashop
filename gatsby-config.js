@@ -3,9 +3,9 @@ dotenv.config();
 
 module.exports = {
   siteMetadata: {
-    title: `OneShopper`,
-    description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
-    author: `@flotiq`,
+    title: `dashop`,
+    description: `un comienzo para el ecommerce`,
+    author: `@osu`,
   },
   plugins: [{
       "resolve": "gatsby-source-flotiq",
@@ -29,8 +29,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `OneShopper`,
-        short_name: `starter`,
+        name: `dashop`,
+        short_name: `comienzo`,
         start_url: `/`,
         background_color: `#4DB58E`,
         theme_color: `#4DB58E`,

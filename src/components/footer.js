@@ -11,15 +11,15 @@ class Footer extends React.Component {
                             <section id="nav_menu-8" className="widget widget_nav_menu">
                                 <div className="menu-main-container">
                                     <ul id="menu-main" className="menu">
-                                        <li><Link to="/">Home</Link></li>
-                                        <li><Link to="/about">About</Link></li>
+                                        <li><Link to="/">Inicio</Link></li>
+                                        <li><Link to="/about">Sobre Nosotros</Link></li>
                                     </ul>
                                 </div>
                             </section>
                         </div>
                         <div className="footer-bottom social-right-menu ">
                             <div className="site-info">
-                                ©2019 Oneshopper. All rights reserved | <a href="https://flotiq.com">Flotiq.com</a>
+                                ©2021 Dashop. Todos los derechos reservados | <a href="https://github.com/osua/products-gatsby">Osua</a>
                             </div>
                         </div>
                     </div>

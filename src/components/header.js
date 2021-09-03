@@ -20,12 +20,12 @@ const Header = ({ siteTitle }) => (
             <ul className="navbar-nav mr-auto">
               <li className="nav-item active">
                 <Link className="nav-link" to="/">
-                  Inicio
+                  Inicio//
                 </Link>
               </li>
               <li className="nav-item">
                 <Link to className="nav-link" to="/about">
-                  Sobre Nosotros
+                  Sobre Nosotros//
                 </Link>
               </li>
             </ul>

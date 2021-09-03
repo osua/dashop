@@ -27,14 +27,14 @@ class About extends React.Component {
                     <p>
                       <strong>
                         Este Marketplace te brindara una serie de Productos
-                        curadoss con la mejor calidad. Tambien podras leer
-                        documentacion de nuestro Stack principal{" "}
-                        <a href="https://www.gatsbyjs.org/tutorial/">
-                          Gatsby.js.
-                        </a>
-                        .
+                        curadoss con la mejor calidad.
                       </strong>{" "}
-                      Utilizados para crear esta tienda.
+                      Tambien podras leer documentacion de nuestro Stack
+                      principal{" "}
+                      <a href="https://www.gatsbyjs.org/tutorial/">
+                        Gatsby.js.
+                      </a>
+                      . Utilizados para crear esta tienda.
                     </p>
                   </li>
                 </ul>

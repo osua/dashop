@@ -61,13 +61,6 @@ class About extends React.Component {
                       <a href="https://flotiq.com/docs">Flotiq docs</a>
                     </p>
                   </li>
-                  <li>
-                    <p>
-                      <a href="https://github.com/flotiq">
-                        Explora Repositorios de ejemplos.
-                      </a>
-                    </p>
-                  </li>
                 </ul>
               </div>
             </div>

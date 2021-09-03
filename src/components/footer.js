@@ -12,10 +12,10 @@ class Footer extends React.Component {
                 <div className="menu-main-container">
                   <ul id="menu-main" className="menu">
                     <li>
-                      <Link to="/">Inicio</Link>
+                      <Link to="/">Inicio//</Link>
                     </li>
                     <li>
-                      <Link to="/about">Sobre Nosotros</Link>
+                      <Link to="/about">Sobre Nosotros//</Link>
                     </li>
                   </ul>
                 </div>

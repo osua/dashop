@@ -16,9 +16,9 @@ class About extends React.Component {
                 <p>
                   Ubicados en la Famosa Costa Este de Estados Unidos (U.S.A.)
                   brindamos servicios para nuestros clientes en Latino America
-                  (Colombia y Argentina), utilizando Node.JS y React combinando
-                  una plataforma de Ecommerce utilizando Full-Stack:{" "}
-                  <a href="https://www.gatsbyjs.org/">Gatsby</a> +{" "}
+                  (Colombia y Argentina), utilizando Next.js un framework de
+                  React para desarrollar una plataforma de Ecommerce utilizando
+                  Full-Stack: <a href="https://www.gatsbyjs.org/">Gatsby</a> +{" "}
                   <a href="https://flotiq.com">Flotiq</a> +{" "}
                   <a href="https://snipcart.com">Snipcart</a>.
                 </p>

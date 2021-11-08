@@ -24,7 +24,7 @@ class Footer extends React.Component {
             <div className="footer-bottom social-right-menu ">
               <div className="site-info">
                 ©2021 Dashop. Todos los derechos reservados |{" "}
-                <a href="https://github.com/osua/dashop">0 Su.</a>
+                <a href="https://github.com/osua/">0 Su.</a>
               </div>
             </div>
           </div>
